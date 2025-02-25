@@ -1,1 +1,1 @@
-# WebApp
+WebApp is a three-part project designed for automated text processing. It consists of a parser, a segmenter, and a web interface to handle input text efficiently. The parser extracts and structures data, the segmenter breaks text into meaningful components, and the web interface provides an accessible way to interact with the processed text. This modular approach ensures flexibility and scalability for various text analysis applications
